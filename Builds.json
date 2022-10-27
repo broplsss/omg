@@ -6,11 +6,11 @@
 
 "productVersion": "1.1",
 
-"dataUrl": "Builds.data.unityweb",
+"dataUrl": "Build/Builds.data.unityweb",
 
-"wasmCodeUrl": "Builds.wasm.code.unityweb.wasm",
+"wasmCodeUrl": "Build/Builds.wasm.code.unityweb.wasm",
 
-"wasmFrameworkUrl": "Builds.wasm.framework.unityweb.wasm",
+"wasmFrameworkUrl": "Build/Builds.wasm.framework.unityweb.wasm",
 
 "graphicsAPI": ["WebGL 2.0","WebGL 1.0"],
 
